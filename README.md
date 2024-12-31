@@ -46,7 +46,7 @@ To illustrate ComfyUI's potential, I explored a workflow integrating models from
 
 Here’s an example of the workflow I designed for AI art generation:
 
-![ComfyUI Workflow](https://github.com/comfyanonymous/ComfyUI/raw/main/docs/images/sample_workflow.png)  
+![ComfyUI Workflow](https://github.com/Zeeshan13/Comfy-UI_Assignment/blob/main/Workflow.png)  
 *Figure 1: AI Art Workflow Designed in ComfyUI.*
 
 ## Why ComfyUI Matters
