@@ -98,7 +98,7 @@ Finally, the **PreviewImage** nodes allow real-time visualization of the inpaint
 Below is an example output from this workflow:
 
 
-![Inpainting Workflow Result](https://via.placeholder.com/600x400)  
+![Inpainting Workflow Result](https://github.com/Zeeshan13/Comfy-UI_Assignment/blob/main/ComfyUI_temp_jpzna_00006_.png)  
 *Figure 2: Simple Inpainting Workflow Result.*
 
 ## Why ComfyUI Matters
