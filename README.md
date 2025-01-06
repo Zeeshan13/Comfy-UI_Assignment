@@ -1,4 +1,7 @@
 # Unlocking Creative Possibilities with ComfyUI: A Journey Beyond Academics
+**by Zeeshan Ahmad Ansari**
+
+_January 6, 2025_
 
 ## Introduction
 
